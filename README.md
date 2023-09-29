@@ -1,12 +1,13 @@
 # testgit
-<<<<<<< HEAD
+
 Tôi tên là trung
 
-thế cơ á
-=======
-Tôi tên là trung 
 hhhhhhhhhh
+<<<<<<< Updated upstream
 ggggggg
 
 thế cơ
->>>>>>> 9994425633b588d7e509d4482fb41175eac1c386
+
+=======
+Duy sắp giàu
+sss2
